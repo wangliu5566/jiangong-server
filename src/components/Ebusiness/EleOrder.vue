@@ -257,7 +257,7 @@ export default {
   methods: {
     /**
      * [getSystemlist 获取系统列表]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-04
      * @return   {[type]}   [description]
      */
@@ -284,7 +284,7 @@ export default {
     },
     /**
      * [getkeyWordList 搜索关键字]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-13
      * @return   {[type]}   [description]
      */
@@ -325,7 +325,7 @@ export default {
     },
     /**
      * [changeTime 得到最近7天和最近一月的天数]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   index [description]
      * @return   {[type]}         [description]
@@ -349,7 +349,7 @@ export default {
     },
     /**
      * [addDate 得到最近7天和最近一月的起始时间]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   date [description]
      * @param    {[type]}   days [description]
@@ -370,7 +370,7 @@ export default {
     },
     /**
      * [getlist 个人订单列表]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   keyWord  [description]
      * @return   {[type]}            [description]
@@ -405,7 +405,7 @@ export default {
     },
     /**
      * [changeSize 切换每页条数]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   pageSize [description]
      * @return   {[type]}            [description]
@@ -417,7 +417,7 @@ export default {
     },
     /**
      * [change 分页切换当前页]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   page [description]
      * @return   {[type]}        [description]
@@ -428,7 +428,7 @@ export default {
     },
     /**
      * [handleChange 处理日期赋值]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   date [description]
      * @return   {[type]}        [description]
@@ -438,7 +438,7 @@ export default {
     },
     /**
      * [handleOk 处理日期值，请求数据]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @return   {[type]}   [description]
      */

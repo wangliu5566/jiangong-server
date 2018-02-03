@@ -240,7 +240,7 @@ export default {
     },
     /**
      * [childOK 子组件触发的方法]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-28
      * @return   {[type]}   [description]
      */
@@ -254,7 +254,7 @@ export default {
     },
     /**
      * [getkeyWordList 搜索关键字]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-13
      * @return   {[type]}   [description]
      */
@@ -284,7 +284,7 @@ export default {
     },
     /**
      * [getlist 得到广告列表]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @return   {[type]}   [description]
      */
@@ -309,7 +309,7 @@ export default {
     },
     /**
      * [changeSize 切换每页条数]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   pageSize [description]
      * @return   {[type]}            [description]
@@ -321,7 +321,7 @@ export default {
     },
     /**
      * [change 分页切换当前页]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   page [description]
      * @return   {[type]}        [description]
@@ -332,7 +332,7 @@ export default {
     },
     /**
      * [handleSelectAll 全选或者全取消]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   status [description]
      * @return   {[type]}          [description]
@@ -342,7 +342,7 @@ export default {
     },
     /**
      * [selectItem 全选功能得到ids]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   status [description]
      * @return   {[type]}          [description]
@@ -357,7 +357,7 @@ export default {
     },
     /**
      * [BatchPutOn 批量删除]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      */
     BatchPutOn() {
@@ -403,7 +403,7 @@ export default {
     },
     /**
      * [openAddModal 打开新增广告商模态框，清空数据]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @return   {[type]}   [description]
      */

@@ -280,7 +280,7 @@ export default {
   methods: {
     /**
      * [getkeyWordList 搜索关键字]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-13
      * @return   {[type]}   [description]
      */
@@ -379,7 +379,7 @@ export default {
     },
     /**
      * [addList 新增订单文件导入]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-16
      */
     addList() {
@@ -387,7 +387,7 @@ export default {
     },
     /**
      * [leadingOut 导出单个订单]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-16
      * @param    {[type]}   id [description]
      * @return   {[type]}      [description]
@@ -409,7 +409,7 @@ export default {
     },
     /**
      * [CloseOrder 关闭订单]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-16
      */
     CloseOrder(id) {
@@ -434,7 +434,7 @@ export default {
 
     /**
      * [doListEmit 处理子组件的请求]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-16
      * @return   {[type]}   [description]
      */

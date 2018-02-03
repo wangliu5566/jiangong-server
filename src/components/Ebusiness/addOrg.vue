@@ -238,7 +238,7 @@ export default {
   methods: {
     /**
      * [getkeyWordList 搜索关键字]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-13
      * @return   {[type]}   [description]
      */
@@ -278,7 +278,7 @@ export default {
     },
     /**
      * [getlist 获取知识元详情列表]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   page     [description]
      * @param    {[type]}   pageSize [description]
@@ -318,7 +318,7 @@ export default {
     },
     /**
      * [changeSize 切换每页条数]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   pageSize [description]
      * @return   {[type]}            [description]
@@ -330,7 +330,7 @@ export default {
     },
     /**
      * [change 分页切换当前页]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   page [description]
      * @return   {[type]}        [description]
@@ -341,7 +341,7 @@ export default {
     },
     /**
      * [handleChange 处理日期赋值]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   date [description]
      * @return   {[type]}        [description]
@@ -351,7 +351,7 @@ export default {
     },
     /**
      * [selectItem 全选功能得到ids]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   status [description]
      * @return   {[type]}          [description]
@@ -365,7 +365,7 @@ export default {
     },
     /**
      * [childrenEmit 新增订单]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-17
      * @param    {[type]}   index [description]
      * @return   {[type]}         [description]
@@ -378,7 +378,7 @@ export default {
     },
     /**
      * [getContentList 获取分类]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-17
      * @return   {[type]}   [description]
      */
@@ -398,7 +398,7 @@ export default {
     },
     /**
      * [getTypeList 获取分类2]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-20
      * @return   {[type]}   [description]
      */
@@ -417,7 +417,7 @@ export default {
     },
     /**
      * [getOrgList 获取机构列表]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-20
      * @return   {[type]}   [description]
      */
@@ -448,7 +448,7 @@ export default {
     },
     /**
      * [addOrderFn 新增机构订单]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-20
      * @param    {[type]}   name [description]
      */

@@ -276,7 +276,7 @@ export default {
   methods: {
     /**
      * [handleChange 处理日期赋值]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   date [description]
      * @return   {[type]}        [description]
@@ -286,7 +286,7 @@ export default {
     },
     /**
      * [handleOk 处理日期值，请求数据]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @return   {[type]}   [description]
      */
@@ -384,7 +384,7 @@ export default {
     },
     /**
      * [Create 新增的函数]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-05
      */
     Create() {
@@ -405,7 +405,7 @@ export default {
     },
     /**
      * [handleSubmit 新增或修改]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   name [description]
      * @return   {[type]}        [description]
@@ -461,7 +461,7 @@ export default {
     },
     /**
      * [update 修改策略]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-05
      * @return   {[type]}   [description]
      */
@@ -484,7 +484,7 @@ export default {
     },
     /**
      * [goBack 关闭模态框和重新请求数据]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @return   {[type]}   [description]
      */

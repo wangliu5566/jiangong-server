@@ -227,7 +227,7 @@ export default {
     },
     /**
      * [getlist 获取列表]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @return   {[type]}   [description]
      */
@@ -250,7 +250,7 @@ export default {
     },
     /**
      * [openModal 打开新增活动模态框]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @return   {[type]}   [description]
      */
@@ -265,7 +265,7 @@ export default {
     },
     /**
      * [closeModal 子组件通知父组件关闭模态框，请求数据]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-04
      * @return   {[type]}        [description]
      */
@@ -275,7 +275,7 @@ export default {
     },
     /**
      * [changeSize 切换每页条数]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   pageSize [description]
      * @return   {[type]}            [description]
@@ -287,7 +287,7 @@ export default {
     },
     /**
      * [change 分页切换当前页]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   page [description]
      * @return   {[type]}        [description]
@@ -298,7 +298,7 @@ export default {
     },
     /**
      * [getSystemlist 获取系统列表]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-04
      * @return   {[type]}   [description]
      */
@@ -341,7 +341,7 @@ export default {
     },
     /**
      * [setSourceFn 设置资源]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-15
      */
     setSourceFn() {

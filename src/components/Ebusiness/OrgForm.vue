@@ -172,7 +172,7 @@ export default {
     },
     /**
      * [childrenEmit 通知父组件关闭模态框]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-17
      * @param    {[type]}   index [description]
      * @return   {[type]}         [description]
@@ -187,7 +187,7 @@ export default {
     },
     /**
      * [handleChange 处理日期赋值]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   date [description]
      * @return   {[type]}        [description]
@@ -197,7 +197,7 @@ export default {
     },
     /**
      * [getOrgList 获取机构列表]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-20
      * @return   {[type]}   [description]
      */
@@ -216,7 +216,7 @@ export default {
     },
     /**
      * [importData 导入数据]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-21
      * @return   {[type]}   [description]
      */
@@ -264,7 +264,7 @@ export default {
     },
     /**
      * [addOrderFn 新增机构订单]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-20
      * @param    {[type]}   name [description]
      */

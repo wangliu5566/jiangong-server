@@ -105,7 +105,7 @@ export default {
   methods: {
     /**
      * [addAdvertiser 新增缺省广告]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      */
     addAdvertiser(name) {
@@ -134,7 +134,7 @@ export default {
     },
     /**
      * [updateAd 修改广告商信息]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   id [description]
      * @return   {[type]}      [description]
@@ -165,7 +165,7 @@ export default {
     },
     /**
      * [handleBeforeUpload 上传图片之前的处理]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-28
      * @return   {[type]}   [description]
      */

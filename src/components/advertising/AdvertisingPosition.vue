@@ -188,7 +188,7 @@ export default {
   methods: {
      /**
      * [childOK 子组件触发的方法]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-28
      * @return   {[type]}   [description]
      */
@@ -217,7 +217,7 @@ export default {
     },
     /**
      * [handleBeforeUpload 上传图片之前的处理]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-28
      * @return   {[type]}   [description]
      */
@@ -233,7 +233,7 @@ export default {
     },
     /**
      * [getlist 上传图片]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-06
      * @return   {[type]}   [description]
      */
@@ -245,7 +245,7 @@ export default {
     },
      /**
      * [publishFn 发布广告]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @return   {[type]}   [description]
      */

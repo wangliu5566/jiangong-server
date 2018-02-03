@@ -133,7 +133,7 @@ export default {
   methods: {
     /**
      * [getkeyWordList 搜索关键字]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-13
      * @return   {[type]}   [description]
      */
@@ -189,7 +189,7 @@ export default {
     },
     /**
      * [changeStatus 切换状态]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-19
      * @param    {[type]}   status [description]
      * @return   {[type]}          [description]
@@ -199,7 +199,7 @@ export default {
     },
     /**
      * [checkFn 审核订单]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-16
      * @return   {[type]}   [description]
      */
@@ -218,7 +218,7 @@ export default {
     },
      /**
      * [getTotoalMoney 订单金额]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-12-09
      * @return   {[type]}   [description]
      */

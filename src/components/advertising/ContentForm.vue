@@ -153,7 +153,7 @@ export default {
   methods: {
     /**
      * [getAdPositionList 获取广告位]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-28
      * @return   {[type]}   [description]
      */
@@ -177,7 +177,7 @@ export default {
     },
     /**
      * [getAdvertiserList 获取广告商列表]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-28
      * @return   {[type]}   [description]
      */
@@ -202,7 +202,7 @@ export default {
     },
     /**
      * [addAd 新增广告]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      */
     addAd(name) {
@@ -231,7 +231,7 @@ export default {
     },
     /**
      * [updateAd 修改广告商信息]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-19
      * @param    {[type]}   id [description]
      * @return   {[type]}      [description]
@@ -262,7 +262,7 @@ export default {
     },
     /**
      * [handleBeforeUpload 上传图片之前的处理]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-28
      * @return   {[type]}   [description]
      */
@@ -290,7 +290,7 @@ export default {
     },
     /**
      * [handleChange 赋值已选择的日期]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-28
      * @param    {[type]}   date [description]
      * @return   {[type]}        [description]
@@ -300,7 +300,7 @@ export default {
     },
     /**
      * [handleOk 选择日期]
-     * @Author   赵雯欣
+     * @Author   王柳
      * @DateTime 2017-11-28
      * @return   {[type]}   [description]
      */
